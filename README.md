@@ -13,6 +13,18 @@ This project presents a recommendation system built to suggest top Amazon produc
 
 ---
 
+## 📦 Dataset Access
+
+The full datasets used in this project are too large for direct inclusion in the repository.
+
+### 🔗 Download from External Sources
+
+You can download the datasets from the following links:
+- [count_data.csv (135MB)](https://drive.google.com/file/d/1naHylreGB9M4wCBw7HkXBi6EIVuAWALF/view?usp=sharing)
+- [metadata.csv (78MB)](https://drive.google.com/file/d/1_DxwWpe79WZbZkgNZWIa8hYEGPEiaVdl/view?usp=sharing)
+
+---
+
 ## 🎯 Project Objective
 
 To create an intelligent recommender system that:
@@ -36,7 +48,7 @@ To create an intelligent recommender system that:
 The script will output:
 - Top-N product recommendations for selected users
 - Evaluation metrics of the recommendation model
-- 
+
 ---
 
 ## 📚 Tech Stack

@@ -1,4 +1,4 @@
-# Amazon-Product-Recommender-System
+# Song Recommender System
 
 ## 🧠 MiT Professional Education: Applied Data Science Program  
 **Project Title:** Leveraging AI for Effective Decision-Making  
@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-This project presents a recommendation system built to suggest top Amazon products to users based on historical rating data. Developed as part of the MiT Applied Data Science Program, the goal is to harness machine learning techniques to support smarter decision-making through AI-driven personalization.
+This project presents a recommendation system built to suggest top songs to users based on historical rating data. Developed as part of the MiT Applied Data Science Program, the goal is to harness machine learning techniques to support smarter decision-making through AI-driven personalization.
 
 ---
 
@@ -28,8 +28,8 @@ You can download the datasets from the following links:
 ## 🎯 Project Objective
 
 To create an intelligent recommender system that:
-- Analyzes historical user-product interactions.
-- Predicts which products individual users are most likely to enjoy.
+- Analyzes historical user-song interactions.
+- Predicts which songs individual users are most likely to enjoy.
 - Delivers personalized recommendations using collaborative filtering and matrix factorization techniques.
 
 ---
